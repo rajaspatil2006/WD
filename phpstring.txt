@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>String Functions</title>
+</head>
+<body>
+<?php
+$string = "Computer Engineering";
+echo "Original String : " . $string . "<br><br>";
+echo "String Length : " . strlen($string) . "<br><br>";
+echo "Reverse String : " . strrev($string) . "<br><br>";
+echo "Substring : " . substr($string, 0, 8);
+?>
+</body>
+</html>

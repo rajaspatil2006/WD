@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Personal Details</title>
+</head>
+<body>
+	<h1><u>Personal Details</u></h1>
+
+	<p><strong>Name:</strong> <em>Rajas Patil</em></p>
+	<p><strong>Phone Number:</strong> <mark>+91 9999999999</mark></p>
+	<p><strong>Email Address:</strong> <a href="mailto:rajas.patil@example.com">rajas.patil@example.com</a></p>
+	<p><strong>Address:</strong> nashik , maharashtra</p>
+
+	<h2><u>About Me</u></h2>
+	<p>I am a motivated and curious learner with interest in  problem solving.</p>
+
+	<h2><u>Skill Set</u></h2>
+	<ul>
+		<li><strong>HTML</strong> and <strong>CSS</strong></li>
+		<li>Python</li>
+		<li>Communication and teamwork</li>
+		<li>Time management</li>
+	</ul>
+
+	<h2><u>Education</u></h2>
+	<p><strong>10th:</strong> Orion Eng MEd School (93.60%) </p>
+	<p><strong>12th:</strong> MJ college jalgaon (75%) </p>
+	<p><strong>Graduation:</strong> BE Computer , PVGCOE , Nashik </p>
+</body>
+</html>

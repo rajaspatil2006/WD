@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PHP Welcome</title>
+</head>
+<body>
+<?php
+echo "<h1>Welcome Student</h1>";
+echo "Current Date and Time : ";
+echo date("d-m-Y h:i:s A");
+?>
+</body>
+</html>

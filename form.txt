@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>practical 3</title>
+        <style>
+            form,h1
+            {
+                text-align:center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1><mark>Student form</mark></h1>
+        <form>
+            <label>First Name: </label>
+            <input type="text" placeholder="enter your First name"><br><br>
+
+            <label>Last Name : </label>
+            <input type="text" placeholder="enter your last name"><br><br>
+            <label>DOB :</label>
+            <input type="date"><br><br>
+            <label>Gender :</label>
+            <input type="radio" name="gender">male
+            <input type="radio" name="gender">female
+            <input type="radio" name="gender">other<br><br>
+            <label>Country :</label>
+            <select>
+                <option>INDIA</option>
+                <option>NEPAL</option>
+                <option>CHINA</option>
+                <option>SWITZERLAND</option>
+            </select><br><br>
+            <label>Email : </label>
+            <input type="email" placeholder="enter your email"><br><br>
+            <label>Phone number : </label>
+            <input type="number" placeholder="enter your phone number"><br><br>
+
+            <label>password : </label>
+            <input type="password" placeholder="enter your password"><br><br>
+            <label>confirm password : </label>
+            <input type="password" placeholder="confirm password"><br><br>
+            <input type="checkbox"><label>I agree to terms and condition</label><br><br>
+            <input type="submit">
+            <input type="reset">
+        </form>
+    </body>
+</html>

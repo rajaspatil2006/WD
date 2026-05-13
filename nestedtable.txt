@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Forests and Wildlife in India</title>
+</head>
+<body>
+	<h1><u>Wildlife and Forests in India</u></h1>
+	<p>This page includes an animal image, a hyperlink to a forest reserve, and a nested table showing the number of animal species in different forest types in India.</p>
+
+	<h2><u>Featured Animal</u></h2>
+	<p><strong>Animal:</strong> Bengal Tiger</p>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg" alt="Bengal tiger in forest habitat" width="500">
+	<p>The Bengal tiger is one of the most iconic animals found in India's forests.</p>
+
+	<h2><u>Forest Reserve Hyperlink</u></h2>
+	<p>
+		Visit the
+		<a href="https://en.wikipedia.org/wiki/Periyar_National_Park" target="_blank" rel="noopener noreferrer">
+			Periyar Wildlife Reserve information page
+		</a>
+		to learn more about one of India's famous forest reserve areas.
+	</p>
+
+	<h2><u>Nested Table: Animal Species in Different Forest Types of India</u></h2>
+	<table border="1" cellpadding="8" cellspacing="0" width="100%">
+		<tr>
+			<th>Forest Type</th>
+			<th>Species Details</th>
+		</tr>
+		<tr>
+			<td>Tropical Evergreen Forests</td>
+			<td>
+				<table border="1" cellpadding="6" cellspacing="0" width="100%">
+					<tr>
+						<th>Animal Group</th>
+						<th>No. of Species</th>
+					</tr>
+					<tr>
+						<td>Mammals</td>
+						<td>120+</td>
+					</tr>
+					<tr>
+						<td>Birds</td>
+						<td>300+</td>
+					</tr>
+					<tr>
+						<td>Reptiles</td>
+						<td>60+</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>Tropical Deciduous Forests</td>
+			<td>
+				<table border="1" cellpadding="6" cellspacing="0" width="100%">
+					<tr>
+						<th>Animal Group</th>
+						<th>No. of Species</th>
+					</tr>
+					<tr>
+						<td>Mammals</td>
+						<td>150+</td>
+					</tr>
+					<tr>
+						<td>Birds</td>
+						<td>250+</td>
+					</tr>
+					<tr>
+						<td>Reptiles</td>
+						<td>80+</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>Mangrove Forests</td>
+			<td>
+				<table border="1" cellpadding="6" cellspacing="0" width="100%">
+					<tr>
+						<th>Animal Group</th>
+						<th>No. of Species</th>
+					</tr>
+					<tr>
+						<td>Mammals</td>
+						<td>40+</td>
+					</tr>
+					<tr>
+						<td>Birds</td>
+						<td>200+</td>
+					</tr>
+					<tr>
+						<td>Reptiles</td>
+						<td>50+</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<p><em>These values are simple classroom-style counts presented for layout purposes.</em></p>
+</body>
+</html>
